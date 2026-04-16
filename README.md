@@ -1,3 +1,21 @@
+<table>
+<tr>
+<td valign="top" width="50%">
 
+## Hi, I'm Max 👋
+
+I'm a CS student at UCLA building things at the intersection of systems programming and graphics. I work mostly in Rust and Python — currently obsessed with procedural animation and inverse kinematics.
+
+- 🦀 Rust enthusiast
+- 🎮 Graphics & procedural generation
+- 🐍 Python for tooling & ML
+- 📍 Los Angeles, CA
+
+</td>
+<td valign="top" width="50%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwe59&exclude_repo=ludumdare58,MonoSpace&size_weight=0.5&count_weight=0.5)
+
+</td>
+</tr>
+</table>
