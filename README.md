@@ -4,12 +4,11 @@
 
 ## Name: Maxwell
 
-I'm a CS student at UCLA building things at the intersection of systems programming and graphics. I work mostly in Rust and Python — currently obsessed with procedural animation and inverse kinematics.
+Currently studying Comp Sci at UCLA. One of my goals is to become a full time indie-dev and release a game on steam
 
-- 🦀 Rust enthusiast
-- 🎮 Graphics & procedural generation
-- 🐍 Python for tooling & ML
-- 📍 Los Angeles, CA
+Technologies:
+-Bevy, a Rust based Game Engine
+-Python Requests for webscraping
 
 </td>
 <td valign="top" width="50%">
