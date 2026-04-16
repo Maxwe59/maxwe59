@@ -8,8 +8,7 @@ Currently studying Comp Sci at UCLA. One of my goals is to become a full time in
 
 - Bevy, a Rust based Game Engine
 - Python Requests for Webscraping
-- 🐍 Python for tooling & ML
-- 📍 Los Angeles, CA
+- Fav langs are RUST/PYTHON
 
 </td>
 <td valign="top" width="50%">
