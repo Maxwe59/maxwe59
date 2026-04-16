@@ -14,7 +14,7 @@ Currently studying Comp Sci at UCLA. One of my goals is to become a full time in
 </td>
 <td valign="top" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwe59&exclude_repo=ludumdare58,MonoSpace&size_weight=0.7&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxwe59&exclude_repo=ludumdare58,MonoSpace&size_weight=0.5&count_weight=0.5)
 
 </td>
 </tr>
