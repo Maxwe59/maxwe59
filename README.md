@@ -6,7 +6,7 @@
 
 Currently studying Comp Sci at UCLA. One of my goals is to become a full time indie-dev and release a game on steam
 
-### Technologies:
+##### Technologies:
 - Bevy, a Rust based Game Engine
 - Python Requests for Webscraping
 - Fav langs are RUST/PYTHON
