@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="50%">
 
-## Hi, I'm Max 👋
+## Name: Maxwell
 
 I'm a CS student at UCLA building things at the intersection of systems programming and graphics. I work mostly in Rust and Python — currently obsessed with procedural animation and inverse kinematics.
 
