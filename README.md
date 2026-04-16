@@ -6,7 +6,7 @@
 
 Currently studying Comp Sci at UCLA. One of my goals is to become a full time indie-dev and release a game on steam
 
-- 🦀 Rust enthusiast
+- Bevy, a Rust based Game Engine
 - 🎮 Graphics & procedural generation
 - 🐍 Python for tooling & ML
 - 📍 Los Angeles, CA
